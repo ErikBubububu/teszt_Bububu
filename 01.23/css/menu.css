@@ -1,0 +1,22 @@
+nav{
+    width: 100%;
+    border: 2px solid whitesmoke;
+    Background-color: black;
+    min-height: 100px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+
+}
+
+a{
+    font-size: 2em;
+    text-decoration: none;
+    color: rgb(148, 146, 146);
+    text-align: center;
+    vertical-align: middle;
+    
+}
+    
+
